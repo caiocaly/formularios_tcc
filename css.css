@@ -1,0 +1,14 @@
+* {
+	font-family: Lato;
+}
+
+div {
+	margin: auto;
+}
+
+button {
+	margin: 10px;
+	display: block;
+	width: 80%;
+	max-width: 300px;
+}
